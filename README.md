@@ -4,14 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Web Development Projects
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Web Development Projects
+- 
+-
 -->
 
 ### 🧰 Languages and Tools:
@@ -21,14 +18,9 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/react-2.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/redux.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/graphql.svg" />
-
 <img align="left" alt="React" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/mongodb-icon-1.svg" />
-
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/git-icon.svg" />
-
 <img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="https://github.com/gulshanyadav01/gulshanyadav01/blob/master/Assets/hello.png" />
 
 <br />
