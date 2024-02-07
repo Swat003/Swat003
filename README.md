@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 
  <br />
 
-🔭 I’m currently working on Web Development Projects
+- 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development Projects
-- 
--
--->
+
 
 ### 🧰 Languages and Tools:
 
