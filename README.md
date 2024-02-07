@@ -50,6 +50,13 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swat003&theme=nord_dark)
 
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swat003&theme=github)
+
+ <br> 
+ 
+
  ---
   *If you liked my profile, you can Star ⭐ the repo.*
 
