@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 </a>
 
  ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+  *If you liked my profile, you can Star ⭐ the repo.*
 
 
