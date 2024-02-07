@@ -49,12 +49,15 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swat003&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swat003&theme=nord_dark)
 
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swat003&theme=github)
-
- <br> 
+<br/>
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Swat003/count.svg" />  
+</p>
  
 
  ---
