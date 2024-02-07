@@ -4,7 +4,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development Projects
+
+---
+
+<br />
+
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Web Development Projects
+-
+<!-- - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design -->
+
+ <br />
+
+🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Web Development Projects
 - 
