@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swat003&theme=nord_dark)
 
 <br/>
+
+<!--   Stats -->
+### 📊 GitHub Stats:
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Swat003&theme=nord&show_icons=true&count_private=true)
+
+<br/>
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
