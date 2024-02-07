@@ -43,6 +43,13 @@ Here are some ideas to get you started:
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=gulshanyadav01&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
+
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swat003&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Swat003&theme=nord_dark)
+
+
  ---
   *If you liked my profile, you can Star ⭐ the repo.*
 
